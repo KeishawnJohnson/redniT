@@ -1,0 +1,52 @@
+var potentialFriends = [
+    {
+        "name":"Ahmed",
+  "photo":"https://cgen.utoronto.ca/files/2019/01/ahmedm-237x300.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+    },
+    {
+        "name":"Will",
+  "photo":"https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzQzMTY2NDc4/will-smith-9542165-1-402.jpg",
+  "scores":[
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ]
+    },
+    {
+        "name":"Skyler",
+  "photo":"https://m.media-amazon.com/images/M/MV5BMjI3MTk5NTM2OV5BMl5BanBnXkFtZTgwMDQ0ODI3NzE@._V1_UX214_CR0,0,214,317_AL_.jpg",
+  "scores":[
+      1,
+      5,
+      2,
+      2,
+      1,
+      5,
+      4,
+      1,
+      2,
+      5
+    ]
+    }
+]
+
+module.exports = potentialFriends;
